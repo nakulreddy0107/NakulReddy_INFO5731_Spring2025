@@ -1,0 +1,161 @@
+Product Name,Description,URL,Page Number
+trufflehog oss,scan github action trufflehog,https://github.com/marketplace/actions/trufflehog-oss,1
+metrics embed,infographics generator plugin options display stats about your github account,https://github.com/marketplace/actions/metrics-embed,1
+yq portable yaml processor,create read update delete merge validate do more yaml,https://github.com/marketplace/actions/yq-portable-yaml-processor,1
+superlinter,superlinter readytorun collection linters code analyzers help validate your source code,https://github.com/marketplace/actions/super-linter,1
+gosec security checker,runs gosec security checker,https://github.com/marketplace/actions/gosec-security-checker,1
+rebuild armbian kernel,support amlogic rockchip allwinner boxes,https://github.com/marketplace/actions/rebuild-armbian-and-kernel,1
+opencommit improve commits ai,replaces lame commit messages meaningful aigenerated messages when you push remote,https://github.com/marketplace/actions/opencommit-improve-commits-with-ai,1
+checkout,checkout git repository particular version,https://github.com/marketplace/actions/checkout,1
+ssh remote commands,executing remote ssh commands,https://github.com/marketplace/actions/ssh-remote-commands,1
+github pages action,github action github pages deploy static files publish your site easily staticsitegeneratorsfriendly,https://github.com/marketplace/actions/github-pages-action,1
+cache,cache artifacts like dependencies build outputs improve workflow execution time,https://github.com/marketplace/actions/cache,1
+generatesnakegamefromgithubcontributiongrid,generates snake game from github user contributions grid output animation gif svg,https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid,1
+build push docker images,build push docker images buildx,https://github.com/marketplace/actions/build-and-push-docker-images,1
+gh release,github action creating github releases,https://github.com/marketplace/actions/gh-release,1
+rundigger,manage terraform collaboration,https://github.com/marketplace/actions/run-digger,1
+rebuild armbian,build armbian linux,https://github.com/marketplace/actions/rebuild-armbian,1
+github script,run simple scripts using github client,https://github.com/marketplace/actions/github-script,1
+deploy github pages,action handle deployment process your project github pages,https://github.com/marketplace/actions/deploy-to-github-pages,1
+chatgpt codereviewer,code review action powered chatgpt,https://github.com/marketplace/actions/chatgpt-codereviewer,1
+ftp deploy,automate deploying websites more github action via ftp ftps,https://github.com/marketplace/actions/ftp-deploy,1
+setup nodejs environment,setup nodejs environment adding problem matchers optionally downloading adding path,https://github.com/marketplace/actions/setup-node-js-environment,2
+runansiblelint,run ansible lint,https://github.com/marketplace/actions/run-ansible-lint,2
+fastpages easy use blogging platform support jupyter notebooks,converts jupyter notebooks word docs jekyll blog posts,https://github.com/marketplace/actions/fastpages-an-easy-to-use-blogging-platform-with-support-for-jupyter-notebooks,2
+release drafter,drafts your next release notes pull requests merged master,https://github.com/marketplace/actions/release-drafter,2
+profile readme development stats,you early night when you most productive during day let s check out your readme,https://github.com/marketplace/actions/profile-readme-development-stats,2
+upload build artifact,upload build artifact can used subsequent workflow steps,https://github.com/marketplace/actions/upload-a-build-artifact,2
+debugging tmate,debug your github action environment interactively using ssh web shell,https://github.com/marketplace/actions/debugging-with-tmate,2
+blog post workflow,allows you show your latest blog posts your github profile project readme,https://github.com/marketplace/actions/blog-post-workflow,2
+setup php action,github action php,https://github.com/marketplace/actions/setup-php-action,2
+typosaction,run typos check spelling github action,https://github.com/marketplace/actions/typos-action,2
+githubprofilesummarycards,generate profile summary cards commit default branch,https://github.com/marketplace/actions/github-profile-summary-cards,2
+hercules insights,run various git history analyses srcdhercules,https://github.com/marketplace/actions/hercules-insights,2
+wemakepythonstyleguide,runs wemakepythonstyleguide github action,https://github.com/marketplace/actions/wemake-python-styleguide,2
+configure aws credentials action github action,configures aws credentials use subsequent steps github action workflow,https://github.com/marketplace/actions/configure-aws-credentials-action-for-github-actions,2
+paths changes filter,execute your workflow steps only relevant files modified,https://github.com/marketplace/actions/paths-changes-filter,2
+flutter action,setup your runner flutter environment,https://github.com/marketplace/actions/flutter-action,2
+create pull request,creates pull request changes your repository action workspace,https://github.com/marketplace/actions/create-pull-request,2
+git auto commit,automatically commits files which have been changed during workflow run push changes back remote repository,https://github.com/marketplace/actions/git-auto-commit,2
+labeler,automatically label new pull requests based paths files being changed,https://github.com/marketplace/actions/labeler,2
+make openwrt,support amlogic rockchip allwinner boxes,https://github.com/marketplace/actions/make-openwrt,2
+megalinter,combine all available linters automatically validate your sources without configuration,https://github.com/marketplace/actions/megalinter,3
+jd json diff patch,jd utility diffing patching json yaml values also supports json merge patch subset json patch,https://github.com/marketplace/actions/jd-json-diff-and-patch,3
+website vulnerable,scan url public javascript library vulnerabilities,https://github.com/marketplace/actions/is-website-vulnerable,3
+changed files,get all added copied modified deleted renamed type changed unmerged unknown files,https://github.com/marketplace/actions/changed-files,3
+releasepleaseaction,automated releases based conventional commits,https://github.com/marketplace/actions/release-please-action,3
+code review gpt,reviews staged files gpt model from openai,https://github.com/marketplace/actions/code-review-gpt,3
+setup python,set up specific version python add commandline tool path,https://github.com/marketplace/actions/setup-python,3
+install cargobinstall,install latest version cargobinstall tool,https://github.com/marketplace/actions/install-cargo-binstall,3
+set up gcloud cloud sdk environment,downloads installs configures google cloud sdk environment adds gcloud cli command path,https://github.com/marketplace/actions/set-up-gcloud-cloud-sdk-environment,3
+step ci action,run step ci workflows,https://github.com/marketplace/actions/step-ci-action,3
+swift doc,generates documentation your swift project,https://github.com/marketplace/actions/swift-doc,3
+sile typesetter,simons improved layout engine,https://github.com/marketplace/actions/the-sile-typesetter,3
+graphql inspector,tooling graphql compare schemas find breaking changes find similar types,https://github.com/marketplace/actions/graphql-inspector,3
+aibased pr reviewer summarizer chat capabilities,aibased pr reviewer summarizer chat capabilities,https://github.com/marketplace/actions/ai-based-pr-reviewer-summarizer-with-chat-capabilities,3
+waka readme,wakatime coding activity graph your profile readme,https://github.com/marketplace/actions/waka-readme,3
+setup java jdk,set up specific version java jdk add commandline tool path,https://github.com/marketplace/actions/setup-java-jdk,3
+codecov,github action uploads coverage reports your repository codecovio,https://github.com/marketplace/actions/codecov,3
+languineai,automated localization infrastructure,https://github.com/marketplace/actions/languine-ai,3
+setupngs,next generation shell ngs,https://github.com/marketplace/actions/setup-ngs,3
+download build artifact,download build artifact previously uploaded workflow uploadartifact action,https://github.com/marketplace/actions/download-a-build-artifact,3
+lua busted,busted,https://github.com/marketplace/actions/lua-busted,4
+hugo setup,github action hugo setup hugo quickly build your site fast hugo extended hugo modules supported,https://github.com/marketplace/actions/hugo-setup,4
+create release,creates github releases,https://github.com/marketplace/actions/create-release,4
+setup go environment,setup go environment add path,https://github.com/marketplace/actions/setup-go-environment,4
+image action,compresses images web,https://github.com/marketplace/actions/image-actions,4
+wakabox,update pinned gist contain wakatime stats,https://github.com/marketplace/actions/waka-box,4
+close stale issues,close issues pull requests recent activity,https://github.com/marketplace/actions/close-stale-issues,4
+hashicorp setup terraform,sets up terraform cli your github action workflow,https://github.com/marketplace/actions/hashicorp-setup-terraform,4
+lost pixel,lost pixel integration,https://github.com/marketplace/actions/lost-pixel,4
+rust cache,github action implements smart caching rustcargo projects sensible defaults,https://github.com/marketplace/actions/rust-cache,4
+cypressio,github action running cypress endtoend component tests,https://github.com/marketplace/actions/cypress-io,4
+deploy cloudflare workers wrangler,deploy your cloudflare projects from github using wrangler,https://github.com/marketplace/actions/deploy-to-cloudflare-workers-with-wrangler,4
+replexica,accurate ai localization web mobile apps,https://github.com/marketplace/actions/replexica,4
+scp files,copy files artifacts via ssh,https://github.com/marketplace/actions/scp-files,4
+scp command transfer files,how use scp command transfer filesfolders linux,https://github.com/marketplace/actions/scp-command-to-transfer-files,4
+webfactorysshagent,run sshagent load ssh key access other private repositories,https://github.com/marketplace/actions/webfactory-ssh-agent,4
+automatic pull request,bring your codebase alive,https://github.com/marketplace/actions/automatic-pull-request,4
+stelligent cfnnag,execute cfnnagscan against code repository where github action workflow run,https://github.com/marketplace/actions/stelligent-cfn_nag,4
+setupmkosi,install mkosi,https://github.com/marketplace/actions/setup-mkosi,4
+ssh deploy,nodejs action fast deployment rsyncssh remote script execution beforeafter rsync,https://github.com/marketplace/actions/ssh-deploy,4
+rustup toolchain install,install rust toolchain,https://github.com/marketplace/actions/rustup-toolchain-install,5
+github push,pushing github repository local changes,https://github.com/marketplace/actions/github-push,5
+lighthouse ci action,audit urls using lighthouse test performance lighthouse ci,https://github.com/marketplace/actions/lighthouse-ci-action,5
+repo visualizer,github action creates svg diagram your repo,https://github.com/marketplace/actions/repo-visualizer,5
+githubprofiledcontrib,generate profile d contributions,https://github.com/marketplace/actions/github-profile-3d-contrib,5
+github action latex,github action compile latex documents,https://github.com/marketplace/actions/github-action-for-latex,5
+add commit,automatically commit changes made your workflow run directly your repo,https://github.com/marketplace/actions/add-commit,5
+docker login,github action login against docker registry,https://github.com/marketplace/actions/docker-login,5
+golangcilint,official golangcilint action lineattached annotations found issues caching parallel execution,https://github.com/marketplace/actions/golangci-lint,5
+slack notify,action send notification slack,https://github.com/marketplace/actions/slack-notify,5
+continuous benchmark,continuous benchmark using github pages dash board keeping performance,https://github.com/marketplace/actions/continuous-benchmark,5
+s sync,sync directory aws s repository,https://github.com/marketplace/actions/s3-sync,5
+semanticpullrequest,ensure your pr title matches conventional commits spec httpswwwconventionalcommitsorg,https://github.com/marketplace/actions/semantic-pull-request,5
+docker setup buildx,set up docker buildx,https://github.com/marketplace/actions/docker-setup-buildx,5
+slack send slack,send data slack start slack workflow workflow builder call slack api method post message channel,https://github.com/marketplace/actions/slack-send-to-slack,5
+authenticate google cloud,authenticate google cloud from github action via workload identity federation service account keys,https://github.com/marketplace/actions/authenticate-to-google-cloud,5
+android emulator runner,installs configures starts android emulator directly hardwareaccelerated runners,https://github.com/marketplace/actions/android-emulator-runner,5
+repository dispatch,create repository dispatch event,https://github.com/marketplace/actions/repository-dispatch,5
+pypipublish,upload python distribution packages pypi,https://github.com/marketplace/actions/pypi-publish,5
+setup pnpm,install pnpm package manager,https://github.com/marketplace/actions/setup-pnpm,5
+check php syntax errors,find php syntax errors,https://github.com/marketplace/actions/check-php-syntax-errors,6
+deploy heroku,deploy app heroku,https://github.com/marketplace/actions/deploy-to-heroku,6
+setup net core sdk,used build publish net source set up specific version net authentication private nuget repository,https://github.com/marketplace/actions/setup-net-core-sdk,6
+setup sherif,setup run sherif opinionated zeroconfig linter javascript monorepos,https://github.com/marketplace/actions/setup-sherif,6
+docker metadata action,github action extract metadata tags labels docker,https://github.com/marketplace/actions/docker-metadata-action,6
+amazon ecr login action github action,logs local docker client one more amazon ecr private registries amazon ecr public registry,https://github.com/marketplace/actions/amazon-ecr-login-action-for-github-actions,6
+cancel workflow action,action cancel any previous runs completed given workflow,https://github.com/marketplace/actions/cancel-workflow-action,6
+github action firebase,wraps firebasetools cli enable common commands,https://github.com/marketplace/actions/github-action-for-firebase,6
+telegram notify,sending telegram message,https://github.com/marketplace/actions/telegram-notify,6
+telegram message notify,sending telegram message,https://github.com/marketplace/actions/telegram-message-notify,6
+goreleaser action,github action goreleaser release automation tool go projects,https://github.com/marketplace/actions/goreleaser-action,6
+test reporter,shows test results github ui net xunit nunit mstest dart flutter java junit javascript jest mocha,https://github.com/marketplace/actions/test-reporter,6
+unity builder,build unity projects different platforms,https://github.com/marketplace/actions/unity-builder,6
+aqua security trivy,scan container images vulnerabilities trivy,https://github.com/marketplace/actions/aqua-security-trivy,6
+merge pull requests automergeaction,automatically merge pull requests ready,https://github.com/marketplace/actions/merge-pull-requests-automerge-action,6
+python semantic release,automated releases via semver commit message conventions,https://github.com/marketplace/actions/python-semantic-release,6
+expo github action,publish build manage your expo app github action,https://github.com/marketplace/actions/expo-github-action,6
+setup ruby jruby truffleruby,download prebuilt ruby add path seconds,https://github.com/marketplace/actions/setup-ruby-jruby-and-truffleruby,6
+github activity readme,updates readme recent github activity user,https://github.com/marketplace/actions/github-activity-readme,6
+upload android release play store,action upload signed android release apk aab google play store developer console,https://github.com/marketplace/actions/upload-android-release-to-play-store,6
+godotci,docker image export godot engine games templates gitlab cigithub action deploy gitlabgithub pages itchio,https://github.com/marketplace/actions/godot-ci,7
+lua ldoc,ldoc,https://github.com/marketplace/actions/lua-ldoc,7
+github tag bump,bump push git tag merge,https://github.com/marketplace/actions/github-tag-bump,7
+legitify analyze,legitify github action,https://github.com/marketplace/actions/legitify-analyze,7
+publish docker,uses git branch docker tag pushes container,https://github.com/marketplace/actions/publish-docker,7
+first interaction,greet new contributors when create first issue open first pull request,https://github.com/marketplace/actions/first-interaction,7
+ondemand selfhosted aws ec runner github action,github action automatic creation registration aws ec instance github action selfhosted runner,https://github.com/marketplace/actions/on-demand-self-hosted-aws-ec2-runner-for-github-actions,7
+ai code review action,perform code reviews comment diffs using openai api,https://github.com/marketplace/actions/ai-code-review-action,7
+release changelog builder,github action builds your release notes changelog fast easy exactly way you want,https://github.com/marketplace/actions/release-changelog-builder,7
+automatic releases,automate github release process assets changelogs prereleases more,https://github.com/marketplace/actions/automatic-releases,7
+download workflow artifact,download extract artifact associated given workflow commit other criteria,https://github.com/marketplace/actions/download-workflow-artifact,7
+create update comment,create update issue pull request comment,https://github.com/marketplace/actions/create-or-update-comment,7
+swiftcreatexcframework,creates xcframework bundles products your swift package uploads them artifacts you can attach release,https://github.com/marketplace/actions/swift-create-xcframework,7
+deploy firebase hosting,github action deploy firebase hosting,https://github.com/marketplace/actions/deploy-to-firebase-hosting,7
+deploy github pages site,github action deploy artifact github pages site,https://github.com/marketplace/actions/deploy-github-pages-site,7
+run architecture,run commands linux container specific cpu architecture armv armv aarch sx ppcle,https://github.com/marketplace/actions/run-on-architecture,7
+twitter together,collaborate tweets just like you collaborate code using pull requests,https://github.com/marketplace/actions/twitter-together,7
+automatic rebase,automatically rebases pr rebase comment,https://github.com/marketplace/actions/automatic-rebase,7
+gradle build action,configures gradle github action caching state generating dependency graph via dependency submission,https://github.com/marketplace/actions/gradle-build-action,7
+flank,run flank from github action,https://github.com/marketplace/actions/flank,7
+slash command dispatch,facilitates chatops creating dispatch events slash commands,https://github.com/marketplace/actions/slash-command-dispatch,9
+compressedsizeaction,get compressed size differences every pr,https://github.com/marketplace/actions/compressed-size-action,9
+install poetry action,installs configures poetry,https://github.com/marketplace/actions/install-poetry-action,9
+sonarqube cloud scan,scan your code sonarqube cloud detect coding issues languages formerly sonarcloud,https://github.com/marketplace/actions/sonarqube-cloud-scan,9
+kibot github action,automatically generates documentation fabrication etc files any kicad project,https://github.com/marketplace/actions/kibot-github-action,9
+actionslack,you can notify slack github action,https://github.com/marketplace/actions/action-slack,9
+rusttoolchain,install rust toolchain,https://github.com/marketplace/actions/rust-toolchain,9
+lint action,github action detecting fixing linting errors,https://github.com/marketplace/actions/lint-action,9
+helm chart releaser,host helm charts repo github pages,https://github.com/marketplace/actions/helm-chart-releaser,9
+install ssh key,install ssh key ssh,https://github.com/marketplace/actions/install-ssh-key,9
+add github projects,automatically add issues prs github projects,https://github.com/marketplace/actions/add-to-github-projects,9
+action semantic release,github action semantic release,https://github.com/marketplace/actions/action-for-semantic-release,9
+pull request summarizer,write comment about every commit pull request every file diff summarize pr,https://github.com/marketplace/actions/pull-request-summarizer,9
+chatgpt integration,action integrates chatgpt your ci,https://github.com/marketplace/actions/chatgpt-integration,9
+wordpress plugin deploy,deploy wordpress plugin repository,https://github.com/marketplace/actions/wordpress-plugin-deploy,9
+install nix,installs nix github action supported platforms linux macos,https://github.com/marketplace/actions/install-nix,9
+github app token,run github action github app instead using secretsgithubtoken personal access token,https://github.com/marketplace/actions/github-app-token,9
+snyk,check your applications vulnerabilties using snyk,https://github.com/marketplace/actions/snyk,9
+godot export,automatically exports your godot games,https://github.com/marketplace/actions/godot-export,9
+generate update markdown content,automatically generate update markdown content like readmemd,https://github.com/marketplace/actions/generate-update-markdown-content,9
